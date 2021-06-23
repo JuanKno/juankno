@@ -3,8 +3,8 @@
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [ LARAVEL, VUE JS, JQUERY, BOOTSTRAP, Node, Docker,],
+  code: [Javascript, Typescript, Html, Css, Php],
+  tools: [ Laravel, vue Js, Jquery, Booststrap, Node, Docker,],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
