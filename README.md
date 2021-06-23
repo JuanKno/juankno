@@ -3,10 +3,14 @@
 ```javascript
 const thai = {
   code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, 'Vue js', Jquery, Booststrap, Node, Docker,],
+  tools: [ Laravel, 'VueJs', Jquery, Booststrap, Node, Docker,],
   passions: [ 'Performance web', 'Web development' ],  
 }
-``` 
+```
+
+[![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
