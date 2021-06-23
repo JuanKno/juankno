@@ -2,9 +2,9 @@
 
 ```javascript
 const thai = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, Vue js, Jquery, Booststrap, Node, Docker,],
+  tools: [ Laravel, 'Vue js', Jquery, Booststrap, Node, Docker,],
+  passions: [ 'Performance web', 'Web develoment' ],  
 }
 ``` 
 <!--
