@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Juan
 
-### About me in code
-
 ```javascript
 const thai = {
   code: [Javascript, Typescript, Html, Css, Php],
@@ -9,6 +7,7 @@ const thai = {
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
+## About me in code
 
 [![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
 
