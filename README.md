@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ```javascript
 const thai = {
   pronouns: "she" | "her",
@@ -14,6 +9,10 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ``` 
+<!--
+**JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
