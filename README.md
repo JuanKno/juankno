@@ -2,7 +2,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [ LARAVEL, VUE JS, JQUERY, BOOTSTRAP, Node, Docker,],
   
