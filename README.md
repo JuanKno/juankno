@@ -5,6 +5,16 @@
 
 Here are some ideas to get you started:
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [ LARAVEL, VUE JS, JQUERY, BOOTSTRAP, Node, Docker,],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+``` 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
