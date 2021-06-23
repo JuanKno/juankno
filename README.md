@@ -7,9 +7,11 @@ const thai = {
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
+
+[![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## About me in code
-
-
 
 <table>
   <tbody>
@@ -69,11 +71,6 @@ const thai = {
     </tr>
   </tbody>
 </table>
-
-
-[![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
