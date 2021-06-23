@@ -4,7 +4,7 @@
 const thai = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, vue Js, Jquery, Booststrap, Node, Docker,],
+  tools: [ Laravel, vue.js, Jquery, Booststrap, Node, Docker,],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
