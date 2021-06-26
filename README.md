@@ -7,9 +7,8 @@ const thai = {
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
-<p align="right">
+
 [![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
-/p>
   
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=juankno&theme=dracula" alt="juankno" />
