@@ -11,8 +11,10 @@ const thai = {
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact"><img alt="juankno Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
  
-[![Juankno GitHub stats](https://github-readme-stats.vercel.app/api?username=juankno)](https://github.com/anuraghazra/github-readme-stats)
-  
+<p align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=juankno&count_private=true&show_icons=true&theme=radical"><img alt="juankno Activity Graph" src="https://github-readme-stats.vercel.app/api?username=juankno&count_private=true&show_icons=true&theme=radical" /></a>
+</p>
+
 <p align="right">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=juankno&theme=dracula" alt="juankno" />
 </p>
