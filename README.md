@@ -40,6 +40,14 @@ const thai = {
           <span>𝗩𝘂𝗲</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
         </td>
+        <td width="25%" align="center">
+            <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+          </td>
+       <td width="25%" align="center">
+         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -58,17 +66,7 @@ const thai = {
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">      
-        <td width="25%" align="center">
-          <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-        </td>
-         <td width="25%" align="center">
-           <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-         </td>
-        <td width="25%" align="center">
+       <td width="25%" align="center">
           <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
         </td>
