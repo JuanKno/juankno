@@ -19,8 +19,6 @@ const thai = {
   <img src="http://github-readme-streak-stats.herokuapp.com?user=juankno&theme=dracula" alt="juankno" />
 </p>
 
-<h1 align="center"> About me in code </h1>
-
 
 <!--
 **JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
