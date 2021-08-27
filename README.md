@@ -7,19 +7,21 @@ const thai = {
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
-<p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact"><img alt="juankno Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact" /></a>
- </p>
+<div style="display:flex; justifiy-content:center; align-content: space-between;"> 
  
-<p align="center">
+<p style="margin:5px;">
 <a  href="https://github-readme-stats.vercel.app/api?username=juankno&count_private=true&show_icons=true&theme=radical"><img alt="juankno Activity Graph" src="https://github-readme-stats.vercel.app/api?username=juankno&count_private=true&show_icons=true&theme=radical" /></a>
 </p>
 
-<p align="right">
+<p style="margin:5px;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact"><img alt="juankno Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankno&theme=radical&langs_count=6&layout=compact" /></a>
+ </p>
+ 
+<p style="margin:5px;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=juankno&theme=dracula" alt="juankno" />
 </p>
 
-
+</div>
 <!--
 **JuanKno/juankno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
