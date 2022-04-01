@@ -3,7 +3,7 @@
 ```javascript
 const thai = {
   code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, Vue, Jquery, Booststrap, Node, Docker,],
+  tools: [ Laravel, Vue, React, Jquery, Booststrap, Node, TailwindCss],
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
