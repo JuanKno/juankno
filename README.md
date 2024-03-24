@@ -1,12 +1,5 @@
 ### Hi 👋, I'm Juan
 
-```javascript
-const thai = {
-  code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, Vue, React, React Native, Jquery, Booststrap, Node, TailwindCss],
-  passions: [ 'Performance web', 'Web development' ],  
-}
-```
 <div style="display:flex; justifiy-content:center; align-content: space-between;"> 
  
 <p style="margin:5px;">
